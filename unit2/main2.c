@@ -36,7 +36,7 @@ int main()
     break - skips the whole condition/ loop 
 
 
-    go to
+    go to - kahi pe jana
 
 
 
